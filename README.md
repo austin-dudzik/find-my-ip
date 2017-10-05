@@ -1,3 +1,5 @@
+**A NEW VERSION OF THIS SOFTWARE IS COMING SOON!**
+
 <img src="https://myhexa.co/back/assets/img/logo.png" alt="" width="200">
 
 
