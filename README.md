@@ -19,7 +19,7 @@ where woul'd like, and done! The script should start working right away.
 
 ## Support
 
-Having issues with FindMyIP? We can help! Please click ![here] (https://community.myhexa.co/t/findmyip). One of the community
+Having issues with FindMyIP? We can help! Please click ![here](https://community.myhexa.co/t/findmyip). One of the community
 members will be able to help with your question or issue.
 
 ## License
