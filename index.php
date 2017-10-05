@@ -3,14 +3,10 @@
 <head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Find My IP Address</title>
+<title>FindMyIP | Script Created By: Hexa</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <link rel="stylesheet" href="https://myhexa.co/back/assets/css/preload.min.css" />
-    <link rel="stylesheet" href="https://myhexa.co/back/assets/css/plugins.min.css" />
     <link rel="stylesheet" href="https://myhexa.co/back/assets/css/style.deep-orange-300.min.css" />
-    <link rel="stylesheet" href="https://myhexa.co/back/assets/css/width-boxed.min.css" id="ms-boxed" disabled>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
-<script src="https://use.fontawesome.com/8f7e7df7a5.js"></script>
 <style type ="text/css" >
    .footer{ 
        position: fixed;     
