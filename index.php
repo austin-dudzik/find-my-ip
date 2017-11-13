@@ -17,7 +17,7 @@
 </style>
 </head>
 <body>
-<br><br><br><br><br><br><br><br><br><br><center><img src="ip.png" title="Web Address" width="100" height="100"><h1>Your IP Address:
+<br><br><br><br><br><br><br><br><br><br><center><img src="assets/ip.png" title="Web Address" width="100" height="100"><h1>Your IP Address:
 <b><?PHP
 
 function getUserIP()
