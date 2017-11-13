@@ -1,0 +1,7 @@
+{
+  "name": "FindMyIp",
+  "description": "A super easy way to display an IP address from a single url.",
+  "repository": "https://github.com/myhexa/find-my-ip",
+  "logo": "https://myhexa.co/favicon.ico",
+  "keywords": ["node", "express", "static"]
+}
